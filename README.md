@@ -15,8 +15,7 @@ We leverage geospatial intelligence and AI-backed algorithms to create a fair, d
 - Ann Miano — Documentation & Quality Engineer (@MI-AN-O)
 
 ## Quick Links
-- [Project Data](https://github.com/Green-Gold-Foundation/project-data)
-- [Technical Narrative](https://github.com/Green-Gold-Foundation/project-docs)
+- [Project Slides](https://github.com/Green-Gold-Foundation/project-slides)
 - [Project Code](https://github.com/Green-Gold-Foundation/project-code/tree/main)
 
 ## Contact
